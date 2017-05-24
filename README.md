@@ -63,12 +63,12 @@ http://stackoverflow.com/questions/26569478/performing-grid-search-on-sklearn-na
 https://github.com/danromuald?tab=repositories
 
 # Visualizations
+http://groupvisual.io/work/
 
 ## Matplotlib
 https://github.com/WeatherGod/interactive_mpl_tutorial
 
 ## Bokeh
-
 
 
 ## D3
@@ -111,6 +111,9 @@ https://blog.remibergsma.com/2012/07/10/setting-locales-correctly-on-mac-osx-ter
 http://www.techpoweredmath.com/spark-dataframes-mllib-tutorial/
 https://maryrosecook.com/blog/post/git-from-the-inside-out <— Interesting stuff on functional programming
 
+## Matrix Factorization w/ deep learning
+http://www1.cmc.edu/pages/faculty/BHunter/
+
 # Industries
 
 ## Finance
@@ -120,8 +123,15 @@ https://songyao21.github.io/Research_Papers/Risk%20Transfer%20versus%20Cost%20Re
 
 # Kaggle
 https://github.com/jdwittenauer/kaggle
+https://www.slideshare.net/markpeng/general-tips-for-participating-kaggle-competitions
 
 # Tools
+
+## Jupyter Notebooks
+https://github.com/drivendata/data-science-is-software
+
+## SciKit Learn
+https://github.com/amueller/advanced_training
 
 ## Apache Drill
 https://github.com/cgivre
