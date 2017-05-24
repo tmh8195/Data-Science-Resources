@@ -1,6 +1,3 @@
-# Data-Science-Resources
-
-
 
 
 # Visualizations
