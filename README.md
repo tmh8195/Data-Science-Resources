@@ -1,4 +1,6 @@
-
+# Statistics
+## Distributions
+https://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/
 
 # Modeling
 ## Probablistic Modeling
