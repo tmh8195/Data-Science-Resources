@@ -24,6 +24,7 @@ https://github.com/AllenDowney/BayesSeminar
 
 ## Time Series
 https://github.com/ultimatist/ODSC17.git
+https://www.youtube.com/watch?v=JNfxr4BQrLk&t=3012s
 
 ## Text / NLP
 https://github.com/kwartler/text_mining
