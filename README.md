@@ -85,6 +85,8 @@ http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3 - generates categorical
 http://algorithms-tour.stitchfix.com/#data-platform - storytelling with d3
 https://students.brown.edu/seeing-theory/regression/index.html#first - visually seeing statistics theories
 
+## Open Source
+http://www.kdnuggets.com/2016/11/top-20-python-machine-learning-open-source-updated.html
 
 
 # General Data Science
