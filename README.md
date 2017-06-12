@@ -12,6 +12,10 @@ https://students.brown.edu/seeing-theory/ ** HAS BASEBALL DATA! (‘homerun’ a
 ## Bayes
 https://github.com/AllenDowney/BayesSeminar
 
+## PYMC3
+https://www.youtube.com/watch?v=VVbJ4jEoOfU&t=1151s&list=PL0eRwZHmE_S_vLkhXktls0PXSZIHJZ3Fb&index=2
+https://www.youtube.com/watch?v=rZvro4-nFIk&index=3&list=PL0eRwZHmE_S_vLkhXktls0PXSZIHJZ3Fb
+
 ## Linear Regression
 
 ## Logistic Regression
