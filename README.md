@@ -85,6 +85,15 @@ https://github.com/WeatherGod/interactive_mpl_tutorial
 ## D3
 https://github.com/morganecf/imdb-odsc
 
+## Data Science Project Management
+http://www.datasciencemanifesto.org/
+https://drivendata.github.io/cookiecutter-data-science/#cookiecutter-data-science
+https://www.slideshare.net/srikanthps/scrum-in-15-minutes-presentation
+https://www.slideshare.net/joelhorwitz/agile-data-science-36258963
+https://www.slideshare.net/srogers74/agile-software-development-overview-presentation/11-Introduction_to_Agile_Methodologies_contd
+https://www.slideshare.net/katemats/manage-datascience-2013strata/17-After_For_the_top_search
+https://github.com/gm-spacagna/agile-data-science-manifesto/issues/1
+
 # Blogs
 http://vrl.cs.brown.edu/color - generates categorical color palettes
 http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3 - generates categorical color palettes
