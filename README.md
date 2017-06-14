@@ -31,6 +31,9 @@ https://github.com/ultimatist/ODSC17.git
 https://www.youtube.com/watch?v=JNfxr4BQrLk&t=3012s
 http://earthpy.org/pandas-basics.html
 
+# Winters
+https://grisha.org/blog/2016/01/29/triple-exponential-smoothing-forecasting/
+
 ## Text / NLP
 https://github.com/kwartler/text_mining
 https://github.com/diegonogare/DataScience/tree/master/Text%20Mining
