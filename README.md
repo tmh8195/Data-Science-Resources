@@ -161,6 +161,8 @@ https://github.com/jdwittenauer/kaggle
 https://www.slideshare.net/markpeng/general-tips-for-participating-kaggle-competitions
 
 # Tools
+## Debugging
+http://kawahara.ca/how-to-debug-a-jupyter-ipython-notebook/
 
 ## Jupyter Notebooks
 https://github.com/drivendata/data-science-is-software
