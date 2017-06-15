@@ -27,14 +27,14 @@ https://www.youtube.com/watch?v=rZvro4-nFIk&index=3&list=PL0eRwZHmE_S_vLkhXktls0
 ## Boosting and Bagging
 
 ## Ensemble
-https://github.com/dustinstansbury/stacked_generalization
-https://mlwave.com/kaggle-ensembling-guide/
-https://rasbt.github.io/mlxtend/user_guide/classifier/StackingClassifier/
-http://machinelearningmastery.com/ensemble-machine-learning-algorithms-python-scikit-learn/
-http://sebastianraschka.com/Articles/2014_ensemble_classifier.html
-http://machinelearningmastery.com/implementing-stacking-scratch-python/
-http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/ - R
-http://www.kdnuggets.com/2015/06/ensembles-kaggle-data-science-competition-p3.html
+* https://github.com/dustinstansbury/stacked_generalization
+* https://mlwave.com/kaggle-ensembling-guide/
+* https://rasbt.github.io/mlxtend/user_guide/classifier/StackingClassifier/
+* http://machinelearningmastery.com/ensemble-machine-learning-algorithms-python-scikit-learn/
+* http://sebastianraschka.com/Articles/2014_ensemble_classifier.html
+* http://machinelearningmastery.com/implementing-stacking-scratch-python/
+* http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/ - R
+* http://www.kdnuggets.com/2015/06/ensembles-kaggle-data-science-competition-p3.html
 
 ## Time Series
 https://github.com/ultimatist/ODSC17.git
