@@ -1,3 +1,66 @@
+
+## Python
+* Google’s Python Intro: https://developers.google.com/edu/python/
+* Another Introductory Python Resource: http://introtopython.org
+* Crash Course in Python for Scientists: http://nbviewer.jupyter.org/gist/rpmuller/5920182
+* Visualize Python Code via Python Tutor: http://pythontutor.com
+* CodeWars: http://www.codewars.com/
+* Code Eval: https://www.codeeval.com/
+* Coding Bat: http://codingbat.com/python
+* Codin Game: https://www.codingame.com/start
+* Checkio: https://www.checkio.org/
+
+## Python + Algorithm Programming Exercises
+* Hacker Rank Data Challenges: https://www.hackerrank.com/domains/data-structures/arrays
+* Coder Byte: https://coderbyte.com/
+* Top Coder Data Science: https://www.topcoder.com/
+
+# General Data Science
+http://www.datasciencecentral.com/profiles/blogs/big-data-sets-available-for-free
+https://www.import.io/post/20-questions-to-detect-fake-data-scientists/
+http://www.datatau.com/
+https://www.yhat.com/
+http://slendermeans.org/ml4h-ch6.html
+https://humancomputation.com/blog/
+https://perplex.city/parallel-thinking-b4076461ff60#.ut0jfngkv
+http://machinelearningmastery.com/metrics-evaluate-machine-learning-algorithms-python/
+http://canworksmart.com/using-mean-absolute-error-forecast-accuracy/
+https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words
+https://github.com/Mithers/Portfolio <— found some other GA grad’s github
+http://www.visiondummy.com/2014/04/geometric-interpretation-covariance-matrix/
+http://www.visiondummy.com/2014/03/eigenvalues-eigenvectors/
+http://www.visiondummy.com/2014/03/divide-variance-n-1/#Parameter_variance
+http://scott.fortmann-roe.com/docs/BiasVariance.html
+http://machinelearningmastery.com/time-series-forecasting-supervised-learning/?__s=vu4zbwvwhtewqsso99ny
+https://www.analyticsvidhya.com/blog/2016/03/practical-guide-principal-component-analysis-python/
+https://onlinecourses.science.psu.edu/stat505/node/54
+http://www.ats.ucla.edu/stat/sas/output/principal_components.htm
+https://www.datascience.com/blog/introduction-to-bayesian-inference-learn-data-science-tutorials
+https://climateecology.wordpress.com/2014/01/27/pystan-a-basic-tutorial-of-bayesian-data-analysis-in-python/
+http://nedbatchelder.com/text/unipain.html
+http://docs.statwing.com/interpreting-residual-plots-to-improve-your-regression/#nonlinear-header
+https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
+https://blog.remibergsma.com/2012/07/10/setting-locales-correctly-on-mac-osx-terminal-application/
+http://www.techpoweredmath.com/spark-dataframes-mllib-tutorial/
+https://maryrosecook.com/blog/post/git-from-the-inside-out <— Interesting stuff on functional programming
+* Model Comparison Pro/Con Chart, by Kevin Markham
+* A Visual Introduction to Machine Learning
+* Metacademy - Machine Learning / Stat Encyclopedia
+* Python Machine Learning Textbook (Text + Code on Github)
+* Quora Discussion on (Outcomes) Differences in the Data Science Field
+* Curriculum Review Notes w Labeled Visuals from Andrew Ng’s Coursera Course (similar topics)
+* Aggregated / Crowdsourced list of Data Science Resources - DataTau
+* Practical Business Python (blog)
+* Introduction to Supervised Learning w Scikit Learn
+* Introduction to Unsupervised Learning w Scikit Learn
+* Additional Examples Divided by Data Science Topic
+
+
+
+## Pandas
+* Introduction to Pandas in 11 Steps: https://bitbucket.org/hrojas/learn-pandas
+* Additional Pandas Tutorial: Pandas Head to Tail
+
 # Statistics
 ## Distributions
 https://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/
@@ -117,34 +180,7 @@ https://students.brown.edu/seeing-theory/regression/index.html#first - visually 
 http://www.kdnuggets.com/2016/11/top-20-python-machine-learning-open-source-updated.html
 
 
-# General Data Science
-http://www.datasciencecentral.com/profiles/blogs/big-data-sets-available-for-free
-https://www.import.io/post/20-questions-to-detect-fake-data-scientists/
-http://www.datatau.com/
-https://www.yhat.com/
-http://slendermeans.org/ml4h-ch6.html
-https://humancomputation.com/blog/
-https://perplex.city/parallel-thinking-b4076461ff60#.ut0jfngkv
-http://machinelearningmastery.com/metrics-evaluate-machine-learning-algorithms-python/
-http://canworksmart.com/using-mean-absolute-error-forecast-accuracy/
-https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words
-https://github.com/Mithers/Portfolio <— found some other GA grad’s github
-http://www.visiondummy.com/2014/04/geometric-interpretation-covariance-matrix/
-http://www.visiondummy.com/2014/03/eigenvalues-eigenvectors/
-http://www.visiondummy.com/2014/03/divide-variance-n-1/#Parameter_variance
-http://scott.fortmann-roe.com/docs/BiasVariance.html
-http://machinelearningmastery.com/time-series-forecasting-supervised-learning/?__s=vu4zbwvwhtewqsso99ny
-https://www.analyticsvidhya.com/blog/2016/03/practical-guide-principal-component-analysis-python/
-https://onlinecourses.science.psu.edu/stat505/node/54
-http://www.ats.ucla.edu/stat/sas/output/principal_components.htm
-https://www.datascience.com/blog/introduction-to-bayesian-inference-learn-data-science-tutorials
-https://climateecology.wordpress.com/2014/01/27/pystan-a-basic-tutorial-of-bayesian-data-analysis-in-python/
-http://nedbatchelder.com/text/unipain.html
-http://docs.statwing.com/interpreting-residual-plots-to-improve-your-regression/#nonlinear-header
-https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
-https://blog.remibergsma.com/2012/07/10/setting-locales-correctly-on-mac-osx-terminal-application/
-http://www.techpoweredmath.com/spark-dataframes-mllib-tutorial/
-https://maryrosecook.com/blog/post/git-from-the-inside-out <— Interesting stuff on functional programming
+
 
 ## Matrix Factorization w/ deep learning
 http://www1.cmc.edu/pages/faculty/BHunter/
@@ -161,6 +197,20 @@ https://github.com/jdwittenauer/kaggle
 https://www.slideshare.net/markpeng/general-tips-for-participating-kaggle-competitions
 
 # Tools
+
+
+
+## SQL
+* https://bootcamp.chartio.com/intro-data-analysis/data-storage
+* https://www.codecademy.com/learn/sql-analyzing-business-metrics
+* https://www.codecademy.com/learn/sql-table-transformation
+* http://www.w3schools.com/sql/sql_intro.asp
+* http://sql.learncodethehardway.org/book/introduction.html
+* https://www.khanacademy.org/computing/computer-programming/sql
+* https://academy.vertabelo.com
+
+
+
 ## Debugging
 http://kawahara.ca/how-to-debug-a-jupyter-ipython-notebook/
 
