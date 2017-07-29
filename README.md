@@ -140,8 +140,9 @@ http://streamhacker.com/2010/05/10/text-classification-sentiment-analysis-naive-
 http://fjavieralba.com/basic-sentiment-analysis-with-python.html
 http://www.nytimes.com/interactive/2012/09/06/us/politics/convention-word-counts.html?_r=0
 http://people.csail.mit.edu/azar/wp-content/uploads/2011/09/thesis.pdf
-https://www.twinword.com/blog/interpreting-the-score-and-ratio-of-sentiment/
-http://stackoverflow.com/questions/26569478/performing-grid-search-on-sklearn-naive-bayes-multinomialnb-on-multi-core-machin
+* https://www.twinword.com/blog/interpreting-the-score-and-ratio-of-sentiment/
+* http://stackoverflow.com/questions/26569478/performing-grid-search-on-sklearn-naive-bayes-multinomialnb-on-multi-core-machin
+* https://www.rosette.com/ - Text analytics company with free api calls to test (entities, names, topics, relationships, linguistics)
 
 ## Deep Learning
 https://github.com/danromuald?tab=repositories
