@@ -148,7 +148,8 @@ http://people.csail.mit.edu/azar/wp-content/uploads/2011/09/thesis.pdf
 https://github.com/danromuald?tab=repositories
 
 # Visualizations
-http://groupvisual.io/work/
+* http://groupvisual.io/work/
+* https://preinventedwheel.com/easy-python-time-series-plots-with-matplotlib/
 
 ## Chord
 http://www.delimited.io/blog/2013/12/8/chord-diagrams-in-d3
