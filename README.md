@@ -16,33 +16,33 @@
 * Top Coder Data Science: https://www.topcoder.com/
 
 # General Data Science
-http://www.datasciencecentral.com/profiles/blogs/big-data-sets-available-for-free
-https://www.import.io/post/20-questions-to-detect-fake-data-scientists/
-http://www.datatau.com/
-https://www.yhat.com/
-http://slendermeans.org/ml4h-ch6.html
-https://humancomputation.com/blog/
-https://perplex.city/parallel-thinking-b4076461ff60#.ut0jfngkv
-http://machinelearningmastery.com/metrics-evaluate-machine-learning-algorithms-python/
-http://canworksmart.com/using-mean-absolute-error-forecast-accuracy/
-https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words
-https://github.com/Mithers/Portfolio <— found some other GA grad’s github
-http://www.visiondummy.com/2014/04/geometric-interpretation-covariance-matrix/
-http://www.visiondummy.com/2014/03/eigenvalues-eigenvectors/
-http://www.visiondummy.com/2014/03/divide-variance-n-1/#Parameter_variance
-http://scott.fortmann-roe.com/docs/BiasVariance.html
-http://machinelearningmastery.com/time-series-forecasting-supervised-learning/?__s=vu4zbwvwhtewqsso99ny
-https://www.analyticsvidhya.com/blog/2016/03/practical-guide-principal-component-analysis-python/
-https://onlinecourses.science.psu.edu/stat505/node/54
-http://www.ats.ucla.edu/stat/sas/output/principal_components.htm
-https://www.datascience.com/blog/introduction-to-bayesian-inference-learn-data-science-tutorials
-https://climateecology.wordpress.com/2014/01/27/pystan-a-basic-tutorial-of-bayesian-data-analysis-in-python/
-http://nedbatchelder.com/text/unipain.html
-http://docs.statwing.com/interpreting-residual-plots-to-improve-your-regression/#nonlinear-header
-https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
-https://blog.remibergsma.com/2012/07/10/setting-locales-correctly-on-mac-osx-terminal-application/
-http://www.techpoweredmath.com/spark-dataframes-mllib-tutorial/
-https://maryrosecook.com/blog/post/git-from-the-inside-out <— Interesting stuff on functional programming
+* http://www.datasciencecentral.com/profiles/blogs/big-data-sets-available-for-free
+* https://www.import.io/post/20-questions-to-detect-fake-data-scientists/
+* http://www.datatau.com/
+* https://www.yhat.com/
+* http://slendermeans.org/ml4h-ch6.html
+* https://humancomputation.com/blog/
+* https://perplex.city/parallel-thinking-b4076461ff60#.ut0jfngkv
+* http://machinelearningmastery.com/metrics-evaluate-machine-learning-algorithms-python/
+* http://canworksmart.com/using-mean-absolute-error-forecast-accuracy/
+* https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words
+* https://github.com/Mithers/Portfolio <— found some other GA grad’s github
+* http://www.visiondummy.com/2014/04/geometric-interpretation-covariance-matrix/
+* http://www.visiondummy.com/2014/03/eigenvalues-eigenvectors/
+* http://www.visiondummy.com/2014/03/divide-variance-n-1/#Parameter_variance
+* http://scott.fortmann-roe.com/docs/BiasVariance.html
+* http://machinelearningmastery.com/time-series-forecasting-supervised-learning/?__s=vu4zbwvwhtewqsso99ny
+* https://www.analyticsvidhya.com/blog/2016/03/practical-guide-principal-component-analysis-python/
+* https://onlinecourses.science.psu.edu/stat505/node/54
+* http://www.ats.ucla.edu/stat/sas/output/principal_components.htm
+* https://www.datascience.com/blog/introduction-to-bayesian-inference-learn-data-science-tutorials
+* https://climateecology.wordpress.com/2014/01/27/pystan-a-basic-tutorial-of-bayesian-data-analysis-in-python/
+* http://nedbatchelder.com/text/unipain.html
+* http://docs.statwing.com/interpreting-residual-plots-to-improve-your-regression/#nonlinear-header
+* https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
+* https://blog.remibergsma.com/2012/07/10/setting-locales-correctly-on-mac-osx-terminal-application/
+* http://www.techpoweredmath.com/spark-dataframes-mllib-tutorial/
+* https://maryrosecook.com/blog/post/git-from-the-inside-out <— Interesting stuff on functional programming
 * Model Comparison Pro/Con Chart, by Kevin Markham
 * A Visual Introduction to Machine Learning
 * Metacademy - Machine Learning / Stat Encyclopedia
