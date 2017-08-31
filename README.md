@@ -218,6 +218,7 @@ http://kawahara.ca/how-to-debug-a-jupyter-ipython-notebook/
 
 ## Jupyter Notebooks
 https://github.com/drivendata/data-science-is-software
+https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
 
 ## SciKit Learn
 https://github.com/amueller/advanced_training
