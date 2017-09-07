@@ -55,7 +55,8 @@
 * Introduction to Unsupervised Learning w Scikit Learn
 * Additional Examples Divided by Data Science Topic
 
-
+## Data Science Books
+* ![Data Science from Scratch](https://www.amazon.com/dp/149190142X/ref=cm_sw_su_dp)
 
 ## Pandas
 * Introduction to Pandas in 11 Steps: https://bitbucket.org/hrojas/learn-pandas
