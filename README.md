@@ -56,7 +56,7 @@
 * Additional Examples Divided by Data Science Topic
 
 ## Data Science Books
-* ![Data Science from Scratch](https://www.amazon.com/dp/149190142X/ref=cm_sw_su_dp)
+* [Data Science from Scratch](https://www.amazon.com/dp/149190142X/ref=cm_sw_su_dp)
 
 ## Pandas
 * Introduction to Pandas in 11 Steps: https://bitbucket.org/hrojas/learn-pandas
@@ -202,10 +202,10 @@ https://www.slideshare.net/markpeng/general-tips-for-participating-kaggle-compet
 # Tools
 
 ## GIT
-* ![Official Documentation](https://git-scm.com/doc)
-* ![Codecademy](https://www.codecademy.com/learn/learn-git)
-* ![CodeSchool - Interactive Tutorial](https://www.codeschool.com/courses/try-git)
-* ![Git Branching](http://learngitbranching.js.org/)
+* [Official Documentation](https://git-scm.com/doc)
+* [Codecademy](https://www.codecademy.com/learn/learn-git)
+* [CodeSchool - Interactive Tutorial](https://www.codeschool.com/courses/try-git)
+* [Git Branching](http://learngitbranching.js.org/)
 
 
 
