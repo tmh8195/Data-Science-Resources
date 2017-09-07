@@ -201,6 +201,13 @@ https://www.slideshare.net/markpeng/general-tips-for-participating-kaggle-compet
 
 # Tools
 
+## GIT
+* ![Official Documentation](https://git-scm.com/doc)
+* ![Codecademy](https://www.codecademy.com/learn/learn-git)
+* ![CodeSchool - Interactive Tutorial](https://www.codeschool.com/courses/try-git)
+* ![Git Branching](http://learngitbranching.js.org/)
+
+
 
 
 ## SQL
