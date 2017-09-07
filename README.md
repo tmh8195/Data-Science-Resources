@@ -201,13 +201,18 @@ https://www.slideshare.net/markpeng/general-tips-for-participating-kaggle-compet
 
 # Tools
 
+
+## Command Line
+* http://generalassembly.github.io/prework/cl/#/
+* https://www.codecademy.com/learn/learn-the-command-line
+* https://www.learnenough.com/command-line-tutorial
+
+
 ## GIT
 * [Official Documentation](https://git-scm.com/doc)
 * [Codecademy](https://www.codecademy.com/learn/learn-git)
 * [CodeSchool - Interactive Tutorial](https://www.codeschool.com/courses/try-git)
 * [Git Branching](http://learngitbranching.js.org/)
-
-
 
 
 ## SQL
