@@ -159,6 +159,9 @@ http://www.delimited.io/blog/2013/12/8/chord-diagrams-in-d3
 ## Matplotlib
 https://github.com/WeatherGod/interactive_mpl_tutorial
 
+## Seaborn
+https://elitedatascience.com/python-seaborn-tutorial
+
 ## Bokeh
 
 
