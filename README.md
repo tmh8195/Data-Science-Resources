@@ -59,6 +59,7 @@
 * [Data Science from Scratch](https://www.amazon.com/dp/149190142X/ref=cm_sw_su_dp)
 
 ## Pandas
+* https://www.dataquest.io/blog/images/cheat-sheets/pandas-cheat-sheet.pdf
 * Introduction to Pandas in 11 Steps: https://bitbucket.org/hrojas/learn-pandas
 * Additional Pandas Tutorial: Pandas Head to Tail
 
