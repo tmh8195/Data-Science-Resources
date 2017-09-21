@@ -3,6 +3,7 @@
 * [Data Search Engine](https://cse.google.com/cse/)
 * http://rs.io/100-interesting-data-sets-for-statistics/
 * Kaggle
+* data.gov
 * http://webscope.sandbox.yahoo.com/
 * http://vincentarelbundock.github.io/Rdatasets/datasets.html
 * https://github.com/udacity/ud120-projects
