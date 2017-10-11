@@ -64,6 +64,7 @@
 * Additional Pandas Tutorial: Pandas Head to Tail
 
 ## Feature Engineering
+https://elitedatascience.com/feature-engineering-best-practices
 https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/
 https://www.quora.com/What-are-some-best-practices-in-Feature-Engineering
 http://www.jmlr.org/
@@ -182,6 +183,10 @@ https://www.slideshare.net/srogers74/agile-software-development-overview-present
 https://www.slideshare.net/katemats/manage-datascience-2013strata/17-After_For_the_top_search
 https://github.com/gm-spacagna/agile-data-science-manifesto/issues/1
 
+## Production
+http://www.kdnuggets.com/2017/06/dataiku-checklist-data-science-implemented-production.html
+
+
 # Blogs
 http://vrl.cs.brown.edu/color - generates categorical color palettes
 http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3 - generates categorical color palettes
@@ -247,3 +252,7 @@ https://github.com/amueller/advanced_training
 
 ## Apache Drill
 https://github.com/cgivre
+
+
+## Skills
+https://blog.udacity.com/data-analyst-skills-checklist-eguide
