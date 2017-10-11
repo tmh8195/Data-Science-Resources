@@ -63,6 +63,11 @@
 * Introduction to Pandas in 11 Steps: https://bitbucket.org/hrojas/learn-pandas
 * Additional Pandas Tutorial: Pandas Head to Tail
 
+## Feature Engineering
+https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/
+https://www.quora.com/What-are-some-best-practices-in-Feature-Engineering
+http://www.jmlr.org/
+
 # Statistics
 ## Distributions
 https://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/
