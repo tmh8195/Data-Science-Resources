@@ -63,6 +63,10 @@
 * Introduction to Pandas in 11 Steps: https://bitbucket.org/hrojas/learn-pandas
 * Additional Pandas Tutorial: Pandas Head to Tail
 
+## Pandas EDA
+* https://community.modeanalytics.com/python/tutorial/pandas-groupby-and-python-lambda-functions/
+* https://stackoverflow.com/questions/30679467/pivot-tables-or-group-by-for-pandas
+
 ## Feature Engineering
 https://elitedatascience.com/feature-engineering-best-practices
 https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/
