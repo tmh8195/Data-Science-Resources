@@ -115,6 +115,12 @@ http://earthpy.org/pandas-basics.html
 # Winters
 https://grisha.org/blog/2016/01/29/triple-exponential-smoothing-forecasting/
 
+# Model Tuning
+http://machinelearningmastery.com/how-to-tune-algorithm-parameters-with-scikit-learn/
+
+More complex
+http://fa.bianp.net/blog/2016/hyperparameter-optimization-with-approximate-gradient/
+
 ## Text / NLP
 https://github.com/kwartler/text_mining
 https://github.com/diegonogare/DataScience/tree/master/Text%20Mining
