@@ -111,6 +111,9 @@ https://www.youtube.com/watch?v=rZvro4-nFIk&index=3&list=PL0eRwZHmE_S_vLkhXktls0
 * http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/ - R
 * http://www.kdnuggets.com/2015/06/ensembles-kaggle-data-science-competition-p3.html
 
+## Clustering
+* https://www.slideshare.net/EdurekaIN/applications-of-clustering-in-real-life
+
 ## Time Series
 https://github.com/ultimatist/ODSC17.git
 https://www.youtube.com/watch?v=JNfxr4BQrLk&t=3012s
