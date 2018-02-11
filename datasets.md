@@ -11,3 +11,7 @@
 * Quora's Idea Compendium
 * Healthcare Twitter Analysis Coursolve & UW Data Science
 * Analyze your LinkedIn Network Generate & Download Adjacency Matrix
+topsy.com
+likebutton.com
+pro-football-reference.com
+Million Song data set
