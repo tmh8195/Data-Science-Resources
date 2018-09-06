@@ -43,6 +43,7 @@
 * https://blog.remibergsma.com/2012/07/10/setting-locales-correctly-on-mac-osx-terminal-application/
 * http://www.techpoweredmath.com/spark-dataframes-mllib-tutorial/
 * https://maryrosecook.com/blog/post/git-from-the-inside-out <— Interesting stuff on functional programming
+* Data Camp
 * Model Comparison Pro/Con Chart, by Kevin Markham
 * A Visual Introduction to Machine Learning
 * Metacademy - Machine Learning / Stat Encyclopedia
@@ -100,6 +101,9 @@ https://www.youtube.com/watch?v=rZvro4-nFIk&index=3&list=PL0eRwZHmE_S_vLkhXktls0
 ## Random Forest
 
 ## Boosting and Bagging
+
+## PCA / ICA
+* http://compneurosci.com/wiki/images/4/42/Intro_to_PCA_and_ICA.pdf
 
 ## Ensemble
 * https://github.com/dustinstansbury/stacked_generalization
