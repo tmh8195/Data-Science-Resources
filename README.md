@@ -104,6 +104,7 @@ https://www.youtube.com/watch?v=rZvro4-nFIk&index=3&list=PL0eRwZHmE_S_vLkhXktls0
 
 ## PCA / ICA
 * http://compneurosci.com/wiki/images/4/42/Intro_to_PCA_and_ICA.pdf
+http://cs229.stanford.edu/notes/cs229-notes11.pdf
 
 ## Ensemble
 * https://github.com/dustinstansbury/stacked_generalization
