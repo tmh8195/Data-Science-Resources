@@ -55,6 +55,7 @@
 * Introduction to Supervised Learning w Scikit Learn
 * Introduction to Unsupervised Learning w Scikit Learn
 * Additional Examples Divided by Data Science Topic
+* http://earthpy.org/
 
 ## Data Science Books
 * [Data Science from Scratch](https://www.amazon.com/dp/149190142X/ref=cm_sw_su_dp)
