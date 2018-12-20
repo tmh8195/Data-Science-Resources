@@ -124,6 +124,8 @@ http://cs229.stanford.edu/notes/cs229-notes11.pdf
 https://github.com/ultimatist/ODSC17.git
 https://www.youtube.com/watch?v=JNfxr4BQrLk&t=3012s
 http://earthpy.org/pandas-basics.html
+https://github.com/agconti/trading/blob/master/GOOG%20V.%20AAPL%20Correlation%20Arb.ipynb
+
 
 # Winters
 https://grisha.org/blog/2016/01/29/triple-exponential-smoothing-forecasting/
