@@ -176,6 +176,24 @@ http://people.csail.mit.edu/azar/wp-content/uploads/2011/09/thesis.pdf
 ## Deep Learning
 https://github.com/danromuald?tab=repositories
 
+# Design Algorithms
+https://dspace.mit.edu/handle/1721.1/9044
+https://www.smashingmagazine.com/2017/01/algorithm-driven-design-how-artificial-intelligence-changing-design/#comments-algorithm-driven-design-how-artificial-intelligence-changing-design
+
+# Generative Design + Optimization(3D)
+https://medium.com/generative-design/design-optimization-2ec2ba3b40f7
+https://www.datadvance.net/
+https://www.formtrends.com/algorithms-design/
+https://www.grasshopper3d.com/page/download-1
+https://www.rhino3d.com/download
+
+# Artificial Intelligence
+https://people.eecs.berkeley.edu/~russell/aima1e/chapter01.pdf
+http://dilab.gatech.edu/test/wp-content/uploads/2014/11/AI-GoelDavies2011-Final.pdf
+
+# Knowledge Base AI
+https://classroom.udacity.com/courses/ud409
+
 # Visualizations
 * http://groupvisual.io/work/
 * https://preinventedwheel.com/easy-python-time-series-plots-with-matplotlib/
