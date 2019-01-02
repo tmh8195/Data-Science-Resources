@@ -190,6 +190,7 @@ https://www.rhino3d.com/download
 # Artificial Intelligence
 https://people.eecs.berkeley.edu/~russell/aima1e/chapter01.pdf
 http://dilab.gatech.edu/test/wp-content/uploads/2014/11/AI-GoelDavies2011-Final.pdf
+http://courses.csail.mit.edu/6.034f/ai3/rest.pdf
 
 # Knowledge Base AI
 https://classroom.udacity.com/courses/ud409
